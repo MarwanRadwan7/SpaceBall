@@ -22,4 +22,4 @@ The game supports 1 player, but multiple players can compete to get high score
 
 - The game is developed with C++.
 - [SFML](https://www.sfml-dev.org/) library is used for GUI.
-- [Here](https://github.com/MarwanRadwan7/SpaceBall/blob/main/preview/gameplay-preview-min.gif) is a live version of the gameplay.
+- [Here](https://github.com/MarwanRadwan7/SpaceBall/blob/main/preview/preview-min.gif) is a live version of the gameplay.
