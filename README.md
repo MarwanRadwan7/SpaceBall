@@ -1,6 +1,6 @@
 # Space Ball
 
-<p>Space Ball is a 2D PC game, you first start with 3 lives, 2 balls -purple and blue- you have to move the brick at the bottom of the screen to bounce the ball back to space in order to in crease your score and get a score higher than the highest score. Have fun! (or try to pretend like you do) :D
+<p>Space Ball is a 2D PC game. You start with 3 lives and 2 balls - purple and blue. Your goal is to move the brick at the bottom of the screen to bounce the ball back into space, increase your score, and achieve a score higher than the highest score. Have fun! (Or try to pretend like you do!) :D
 </p>
 
 ![](https://github.com/MarwanRadwan7/SpaceBall/blob/main/preview/gameplay-preview.png)
