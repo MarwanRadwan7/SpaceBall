@@ -6,21 +6,20 @@
 ![](https://github.com/MarwanRadwan7/SpaceBall/blob/main/preview/gameplay-preview.png)
 
 <p>
-The game supports 1 player, but multiple players can compete to get high score.
+The game supports 1 player, but multiple players can compete to get high score
 </p>
 
 ## Controls
 
-| Control | Player 1 |
-| ------- | -------- |
-| up      | W        |
-| down    | S        |
-| right   | D        |
-| left    | A        |
+| Control | Player |
+| ------- | ------ |
+| up      | W      |
+| down    | S      |
+| right   | D      |
+| left    | A      |
 
 ## Technical
 
 - The game is developed with C++.
 - [SFML](https://www.sfml-dev.org/) library is used for GUI.
-
-![](https://github.com/MarwanRadwan7/SpaceBall/blob/main/preview/gameplay-preview-min.png)
+- [Here](https://github.com/MarwanRadwan7/SpaceBall/blob/main/preview/gameplay-preview-min.gif) is a live version of the gameplay.
